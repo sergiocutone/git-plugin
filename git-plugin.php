@@ -4,7 +4,7 @@
 Plugin Name: git-plugin
 Plugin URI:  https://google.com
 Description: Git Plugins
-Version:     1.5
+Version:     1.6
 Author:      Web Prestige
 Author URI:  https://google.com
 License:     GPL2
